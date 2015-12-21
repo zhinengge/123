@@ -10,18 +10,18 @@ body {
 	background-size: cover;
 }
 .copy_right  {
-	color: #999;
+	color: #555;
 	font-size: 1.8em;
 	line-height: 1.8em;
-	padding: 5em 0px 0px 0px;
+	padding: 2em 0px 0px 0px;
 	font-family: 'open_sansregular';
 	text-align: center;
 }
 .copy_right1  {
-	color: #888;
+	color: #666;
 	font-size: 1.25em;
 	line-height: 0.8em;
-	padding: 5em 0px 0px 0px;
+	padding: 3em 0px 0px 0px;
 	font-family: 'open_sansregular';
 	text-align: center;
 .copy_right a {
