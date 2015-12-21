@@ -10,7 +10,7 @@ body {
 	background-size: cover;
 }
 .copy_right  {
-	color: #900;
+	color: #000;
 	font-size: 1.8em;
 	line-height: 1.8em;
 	padding: 5em 0px 0px 0px;
@@ -18,7 +18,7 @@ body {
 	text-align: center;
 }
 .copy_right1  {
-	color: #666;
+	color: #111;
 	font-size: 1.25em;
 	line-height: 1.8em;
 	padding: 5em 0px 0px 0px;
