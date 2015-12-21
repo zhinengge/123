@@ -10,13 +10,20 @@ body {
 	background-size: cover;
 }
 .copy_right  {
-	color: #eee;
-	font-size: 1.25em;
+	color: #999;
+	font-size: 1.8em;
 	line-height: 1.8em;
 	padding: 5em 0px 0px 0px;
 	font-family: 'open_sansregular';
 	text-align: center;
 }
+.copy_right1  {
+	color: #888;
+	font-size: 1.25em;
+	line-height: 0.8em;
+	padding: 5em 0px 0px 0px;
+	font-family: 'open_sansregular';
+	text-align: center;
 .copy_right a {
 	color:#0DF0FA;
 	-webkit-transition: all 0.3s ease-out;
